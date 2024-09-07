@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO\DOCUMENTS\CPPPORTOFOLIO\VELOXENCODE\BUILD\CMAKEFILES\80407144314E43903D4E11348F8BA597\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode -BC:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode/build/MyProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
