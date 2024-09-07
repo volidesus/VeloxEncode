@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode/build/CMakeFiles/cxxQRMAKER.dir
+C:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/Documents/cppPortofolio/VeloxEncode/build/CMakeFiles/ZERO_CHECK.dir
